@@ -1,0 +1,21 @@
+body {
+    font-family: "Roboto";
+  }
+  #customBackGround{
+      background-color: #E9ECEF;
+  }
+  #customColor-1{
+      color: #17A2B8;
+  }
+  #customColor-2{
+      color: #20C997;
+  }
+  #customColor-3{
+      color: #FD7F15;
+  }
+
+  @media screen and (max-width: 576px) {
+    .carousel-image{
+        height:150px;
+    }
+}
